@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Jiwoo%20Joy%20Kim&fontColor=ffffff&fontSize=25&fontAlign=70&animation=fadeIn)
+
 <h2 align="center">Hi, I make something! 👩🏻‍💻✍🏽🎨🔨🎬🪑🌈 💖🔜</h2>
 
 <br />
@@ -34,6 +36,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzuzokim%2Fhit-counter&count_bg=%23CBD9C2&title_bg=%23BAC7CB&icon=github.svg&icon_color=%23FDFDFD&title=Welcome&edge_flat=false"/></a>
   </a>
 </p>
-
-
 
