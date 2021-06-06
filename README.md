@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Jiwoo%20Joy%20Kim&fontColor=ffffff&fontSize=25&fontAlign=70&animation=fadeIn)
 
-<h2 align="center">Hi, I make something! 👩🏻‍💻✍🏽🎨🔨🎬🪑🌈 💖🔜</h2>
+<h3 align="center">Hi, I make something! 👩🏻‍💻✍🏽🎨🔨🎬🪑🌈 💖🔜</h3>
 
 <br />
 
