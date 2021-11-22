@@ -4,7 +4,7 @@
 
 <br />
 
-<h3 align="center">✨ Tech stacks ✨</h3>
+<!-- <h3 align="center">✨ Tech stacks ✨</h3>
 </--<img src="https://img.shields.io/badge/뱃지의이름-색상코드?style=flat-square&logo=심플아이콘즈의로고이름&logoColor=white"/></a>
 
 <p align="center">• Frontend</p> 
@@ -33,7 +33,7 @@
 </p>
 <br />
 <p align="center">✷</p>
-
+ -->
 <h3 align="center"> *☙❧❇︎ How to reach me ❇︎❧☙* </h3> 
 <p align="center"> ⇣⇣⇣</p>
 <p align="center">
