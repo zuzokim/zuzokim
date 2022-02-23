@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Jiwoo%20Joy%20Kim&fontColor=ffffff&fontSize=25&fontAlign=70&animation=fadeIn)
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Jiwoo%20Joy%20Kim&fontColor=ffffff&fontSize=25&fontAlign=70&animation=fadeIn)
 
 <h3 align="center">Hi, I make something! ✍🏽🎨🔨🎬🪑🌈 💖👩🏻‍💻🔜</h3>
 
 <br />
-
-<!-- <h3 align="center">✨ Tech stacks ✨</h3>
+ <h3 align="center">✨ Tech stacks ✨</h3>
 </--<img src="https://img.shields.io/badge/뱃지의이름-색상코드?style=flat-square&logo=심플아이콘즈의로고이름&logoColor=white"/></a>
 
 <p align="center">• Frontend</p> 
