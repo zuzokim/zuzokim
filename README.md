@@ -39,6 +39,10 @@
 <p align="center">
  <a href="mailto:zuzokim@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:zuzokim@gmail.com"/></a>
 </p>
+<p align="center">
+ <a href="https://linktr.ee/zuzokim">LinkTree</a>
+</p>
+
 
 
 
