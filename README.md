@@ -8,7 +8,8 @@ I enjoy discussing the problems we are solving with my colleagues and find great
 </p>
 </p>
 
-
+- [LinkedIn](linkedin.com/in/jiwoo-kim-635921206)
+- zuzokim@gmail.com
 
 ---
 <p align="center">
