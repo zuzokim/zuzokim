@@ -9,11 +9,7 @@ I enjoy discussing the problems we are solving with my colleagues and find great
 </p>
 
 - [LinkedIn](https://linkedin.com/in/jiwoo-kim-635921206)
+- [Linktree](https://linktr.ee/zuzokim)
 - zuzokim@gmail.com
 
----
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzuzokim%2Fhit-counter&count_bg=%23CBD9C2&title_bg=%23BAC7CB&icon=github.svg&icon_color=%23FDFDFD&title=today&edge_flat=false"/></a>
-  </a>
-</p>
 
